@@ -1,0 +1,6 @@
+
+ Make a package with login and register without loading the page.
+=> Push code in GitHub.
+=> Share the repo on fabprojectmanager@gmail.com
+=> Add all steps to install the package in the readme.txt file.
+=> Make sure this is based on the session and the session will expire once a user logged out.
